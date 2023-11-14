@@ -1,3 +1,4 @@
+//선택정렬
 #include <stdio.h>
 
 void sort(int a[], int len);
